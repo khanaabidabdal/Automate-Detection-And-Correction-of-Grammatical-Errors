@@ -1,7 +1,5 @@
 # Automate-Detection-And-Correction-of-Grammatical-Errors
 
-# Automate-detection-and-correction-of-Grammatical-errors
-
 The following project is an Automatic Grammatical error detection and correction deep learning model. I begin with installing libraries such as spacy, happytransformers and transformers. I used JFLEG dataset which is considered the golden standard for GEC. Afterwards I preprocessed the text and did some text analysis using wordcloud.
 
 
